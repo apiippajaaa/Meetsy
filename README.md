@@ -31,10 +31,6 @@ Meetsy is a real-time video conferencing application inspired by modern collabor
 - Stream Video SDK
 - shadcn/ui
 
-## Screenshots
-
-Add your application screenshots here.
-
 ## Getting Started
 
 ```bash
